@@ -111,7 +111,7 @@ export default function IntakeForm({ userData, setUserData }) {
         min-h-screen
         flex items-center justify-center
         relative overflow-hidden
-        bg-[radial-gradient(circle_at_center,_#c7f0ff_35%,_#eefcff_65%,_#ffffff_100%)]
+        bg-[radial-gradient(circle_at_center,_#ffcce5_25%,_#ffe6f2_55%,_#ffffff_100%)]
       "
     >
       <pre
@@ -141,7 +141,7 @@ export default function IntakeForm({ userData, setUserData }) {
       >
         <p
           className="
-            text-center text-sm text-slate-500
+            text-center text-sm text-slate-700
             max-w-sm mb-7 leading-relaxed
           "
           style={{ fontFamily: "monospace" }}
@@ -161,9 +161,9 @@ export default function IntakeForm({ userData, setUserData }) {
             className="
               border border-slate-300
               px-4 py-3
-              text-sm text-slate-600
+              text-sm text-slate-800
               outline-none
-              focus:border-sky-400
+              focus:border-pink-400
               transition-colors
             "
             style={{ fontFamily: "monospace" }}
@@ -175,7 +175,7 @@ export default function IntakeForm({ userData, setUserData }) {
                 className="
                   absolute left-4 top-1/2
                   -translate-y-1/2
-                  text-sm text-slate-400
+                  text-sm text-slate-800
                   pointer-events-none
                 "
                 style={{ fontFamily: "monospace" }}
@@ -196,9 +196,9 @@ export default function IntakeForm({ userData, setUserData }) {
                 bg-transparent
                 border border-slate-300
                 px-4 py-3 pr-10
-                text-sm text-slate-600
+                text-sm text-slate-800
                 outline-none
-                focus:border-sky-400
+                focus:border-pink-400
                 transition-all duration-300
                 appearance-none
               "
@@ -228,7 +228,7 @@ export default function IntakeForm({ userData, setUserData }) {
                 className="
                     absolute left-4 top-1/2
                     -translate-y-1/2
-                    text-sm text-slate-400
+                    text-sm text-slate-800
                     pointer-events-none
                   "
                 style={{ fontFamily: "monospace" }}
@@ -249,9 +249,9 @@ export default function IntakeForm({ userData, setUserData }) {
                 bg-transparent
                 border border-slate-300
                 px-4 py-3 pr-10
-                text-sm text-slate-600
+                text-sm text-slate-800
                 outline-none
-                focus:border-sky-400
+                focus:border-pink-400
                 transition-all duration-300
                 appearance-none
               "
@@ -281,16 +281,16 @@ export default function IntakeForm({ userData, setUserData }) {
               className="
                 border border-slate-300
                 px-4 py-3
-                text-sm text-slate-600
+                text-sm text-slate-800
                 outline-none
-                focus:border-sky-400
+                focus:border-pink-400
                 transition-colors
               "
               style={{ fontFamily: "monospace" }}
             />
 
             <span
-              className="text-xs text-slate-400 italic mt-2.5"
+              className="text-xs text-slate-600 italic mt-2.5"
               style={{ fontFamily: "monospace" }}
             >
               * Optional. The angels are not judgmental about music taste.
@@ -306,14 +306,14 @@ export default function IntakeForm({ userData, setUserData }) {
             }
             className="
               mt-7
-              bg-sky-300
+              bg-pink-500
               border border-white/20
               rounded-2xl
               text-slate-900
               px-6 py-3
               text-sm
               shadow-lg
-              hover:bg-sky-200
+              hover:bg-pink-400
               hover:scale-[1.02]
               transition-all duration-300
               cursor-pointer
