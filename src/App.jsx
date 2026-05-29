@@ -9,6 +9,7 @@ function App() {
   const [userData, setUserData] = useState({
     name: "",
     zodiac: "",
+    emotion: "",
     spotify: "",
   });
 
