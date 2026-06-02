@@ -57,7 +57,7 @@ Respond ONLY with a valid JSON object, no extra text, no markdown backticks. Use
   "auraType": "The [Adjective] Angel",
   "auraNumber": a number between 1 and 8 that best represents this person's energy,
   "color": "a soft pastel hex color code that matches the aura's energy",
-  "textColor": "either #ffffff or a dark hex color that is readable on top of the color above",
+  "textColor": "a hex color opposite to the color above that is readable on top of the color above",
   "reading": "3-4 sentences describing this person's aura energy. Poetic, mystical, second person (you). Reference their zodiac and emotional state subtly.",
   "prophecy": "one short mysterious sentence about something coming for this person",
   "angelNumber": an angel number between 111 and 999,
