@@ -69,3 +69,11 @@ Development
 Deployment
 
 - Vercel
+
+## ‼️ Disclaimer
+
+Aurix was inspired by a magical aura scanner I stumbled upon on Instagram (@aitanapico, https://www.instagram.com/p/DYhvWR7DKtD/) — full credit to the original creator for the concept. This is my own independent take on it, built from scratch.
+
+The angel wing and star ASCII art featured in the app was sourced from emojicombos.com — a wonderful corner of the internet (https://emojicombos.com/angel-wings-ascii-art, https://emojicombos.com/stars-ascii-art).
+
+One important note about the camera: it's purely for the vibe. When you grant camera access, your video feed is displayed locally on your screen for the theatrical scanning effect — and that's it. No images are taken. No frames are captured. Nothing is sent anywhere. Your face is never used, stored, or processed in any way. The angels only need your name, zodiac, and emotional state to do their work.
