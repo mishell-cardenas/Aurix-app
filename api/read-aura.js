@@ -60,8 +60,9 @@ Respond ONLY with a valid JSON object, no extra text, no markdown backticks. Use
   "textColor": "either #ffffff or a dark hex color that is readable on top of the color above",
   "reading": "3-4 sentences describing this person's aura energy. Poetic, mystical, second person (you). Reference their zodiac and emotional state subtly.",
   "prophecy": "one short mysterious sentence about something coming for this person",
-  "frequency": a number between 111 and 963,
-  "frequencyLabel": "a two or three word poetic label for the frequency"
+  "angelNumber": an angel number between 111 and 999,
+  "frequencyLabel": "a two or three word poetic label for the angel number"
+  "frequencyExplanation": a one short sentence explaining the angel number.
 }
 `;
 }
