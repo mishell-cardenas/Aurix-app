@@ -61,7 +61,7 @@ Respond ONLY with a valid JSON object, no extra text, no markdown backticks. Use
   "reading": "3-4 sentences describing this person's aura energy. Poetic, mystical, second person (you). Reference their zodiac and emotional state subtly.",
   "prophecy": "one short mysterious sentence about something coming for this person",
   "angelNumber": an angel number between 111 and 999,
-  "frequencyLabel": "a two or three word poetic label for the angel number"
+  "frequencyLabel": "a two or three word poetic label for the angel number",
   "frequencyExplanation": a one short sentence explaining the angel number.
 }
 `;
