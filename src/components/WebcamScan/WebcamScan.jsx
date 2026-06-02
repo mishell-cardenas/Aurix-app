@@ -66,7 +66,7 @@ export default function WebcamScan({ userData, setReading }) {
       } else {
         clearInterval(interval);
       }
-    }, 1000);
+    }, 1700);
 
     return () => clearInterval(interval);
   }, []);
