@@ -34,6 +34,14 @@ Aurix is a full-stack web application that gives users a personalized spiritual 
 
 ## 📸 Screenshots
 
+<img width="1511" height="808" alt="Screenshot 2026-06-01 at 20 25 15" src="https://github.com/user-attachments/assets/471d2c84-1cec-4e89-b114-84054937385a" />
+
+<img width="1511" height="808" alt="Screenshot 2026-06-01 at 20 25 43" src="https://github.com/user-attachments/assets/3d90d616-bd3e-49a8-90f0-e7d02acd6277" />
+
+<img width="1511" height="808" alt="Screenshot 2026-06-01 at 20 30 31" src="https://github.com/user-attachments/assets/1989d9ce-46ad-44af-8abe-f3d70c432dff" />
+
+<img width="1511" height="808" alt="Screenshot 2026-06-01 at 20 32 01" src="https://github.com/user-attachments/assets/13a61a2d-184c-48eb-acd0-a8012a3686ec" />
+
 ## 🎨 About Design
 
 Aurix draws visual inspiration from early internet mysticism and angel aesthetics. The design uses soft pastel backgrounds dynamically generated per reading, monospace typography throughout, and ASCII braille angel wing art. Each results page is fully themed to the aura color returned by the AI — no two readings look the same.
