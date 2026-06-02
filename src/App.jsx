@@ -4,6 +4,7 @@ import Landing from "./components/Landing/Landing";
 import IntakeForm from "./components/IntakeForm/IntakeForm";
 import WebcamScan from "./components/WebcamScan/WebcamScan";
 import Results from "./components/Results/Results";
+import Disclaimer from "./components/Disclaimer/Disclaimer";
 
 function App() {
   const [userData, setUserData] = useState({
@@ -17,6 +18,7 @@ function App() {
 
   return (
     <BrowserRouter>
+      <Disclaimer />
       <div className="fixed top-4 right-4 z-50" style={{ width: '300px' }}>
         <iframe
           data-testid="embed-iframe"
