@@ -54,6 +54,7 @@ Frontend
 - Tailwind CSS
 - react-router-dom
 - react-webcam
+- Spotify Embed (playlist player)
 
 Backend
 
